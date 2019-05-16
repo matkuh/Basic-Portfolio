@@ -201,3 +201,63 @@ img {
     left: 650px;
     color: white;
 }
+#spongebob {
+    top: 220px;
+    left: 30px;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 30px;
+    z-index: 1;
+}
+#krabs {
+    top: 220px;
+    left: 350px;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 30px;
+    z-index: 1;
+}
+#patrick {
+    top: 400px;
+    left: 30px;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 30px;
+    z-index: 1;
+}
+#squid {
+    top: 400px;
+    left: 350px;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 30px;
+    z-index: 1;
+}
+#sandy {
+    top: 580px;
+    left: 30px;
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    background: #4aaaa5;
+    color: white;
+    width: 200px;
+    height: 30px;
+    z-index: 1;
+}
