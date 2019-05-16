@@ -160,3 +160,13 @@ footer {
     top: 160px;
     left: 20px;
 }
+#subjectlab {
+    position: absolute;
+    top: 230px;
+    left: 20px;
+}
+#submit {
+    position: absolute;
+    top: 475px;
+    left: 20px;
+}
