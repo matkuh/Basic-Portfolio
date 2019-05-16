@@ -34,7 +34,7 @@ body {
     background: white;
     padding: 20px;
     position: absolute;
-    right: 30%;
+    right: 40%;
     top: 10px;
 }
 #portfolio {
@@ -43,7 +43,7 @@ body {
     background: white;
     padding: 20px;
     position: absolute;
-    right: 20%;
+    right: 30%;
     top: 10px;
 }
 #contact {
@@ -52,7 +52,7 @@ body {
     background: white;
     padding: 20px;
     position: absolute;
-    right: 10%;
+    right: 20%;
     top: 10px;
 }
 #bodywrap {
