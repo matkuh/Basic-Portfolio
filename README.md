@@ -1,4 +1,4 @@
-<img src="Portfolio Screenshot.png" width="600" height="400">
+<img src="pics/Portfolio Screenshot.jpg" width="600" height="400">
 
 I made a basic portfolio page with an about, portfolio, and contact section.
 
